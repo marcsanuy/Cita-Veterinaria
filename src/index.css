@@ -5,16 +5,16 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background-image: linear-gradient(-225deg, rgb(135, 216, 155) 0%, rgb(61, 155, 134) 52%, rgb(3, 114, 67) 100%);
+  background-image: linear-gradient(-225deg, rgb(135, 216, 155) 0%, rgb(61, 155, 134) 52%, rgb(5, 148, 88) 100%);
   min-height: 100%;
   padding-bottom: 5rem;
-}
+  }
 
 header {
   margin-top: 3rem;
 }
-header h1 {
-  color: #414853;
+h1 {
+  color: #42454d;
 }
 .lista-citas .media {
   border-bottom: 1px solid #e1e1e1;
